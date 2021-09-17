@@ -1,4 +1,4 @@
-#Telegram-moodle-notification-bot Moodle Bot
+# Telegram moodle notification bot
 @reverse-developer 
 
 Telegram bot for students at any University that uses moodle LMS Platform.  
